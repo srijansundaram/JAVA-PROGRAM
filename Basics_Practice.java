@@ -9,18 +9,18 @@ public class Basics_Practice {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter Total Marks: ");
-        total_marks = sc.nextInt();
+        total_marks = sc.nextDouble();
 
         System.out.println("Enter marks in Subject 1: ");
-        m1 = sc.nextInt();
+        m1 = sc.nextDouble();
         System.out.println("Enter marks in Subject 2: ");
-        m2 = sc.nextInt();
+        m2 = sc.nextDouble();
         System.out.println("Enter marks in Subject 3: ");
-        m3 = sc.nextInt();
+        m3 = sc.nextDouble();
         System.out.println("Enter marks in Subject 4: ");
-        m4 = sc.nextInt();
+        m4 = sc.nextDouble();
         System.out.println("Enter marks in Subject 5: ");
-        m5 = sc.nextInt();
+        m5 = sc.nextDouble();
 
         double scored = m1+m2+m3+m4+m5;
 
