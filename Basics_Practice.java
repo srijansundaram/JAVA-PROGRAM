@@ -26,6 +26,5 @@ public class Basics_Practice {
 
         double percentage = (scored / total_marks) * 100;
         System.out.printf("Percentage is : %.2f ", percentage);
-
     }
 }
