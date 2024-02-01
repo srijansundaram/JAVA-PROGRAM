@@ -21,7 +21,7 @@ public class Exp_01 {
             System.out.println("You can't drive.");   
         }
 
-        // While loop ->>
+        // While loop ->> 
 
         System.out.println("While loop");
         System.out.println("Enter a number whose table you want: ");
