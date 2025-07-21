@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙌 Contributions
 
-This repo is primarily for personal learning. However, feel free to fork it and use it for your own Python practice!
+This repo is primarily for personal learning. However, feel free to fork it and use it for your own Java practice!
 
 ```
 
