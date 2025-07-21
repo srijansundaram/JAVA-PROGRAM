@@ -1,6 +1,3 @@
-Here’s a **README.md** you can use for your repository:
-
-```markdown
 # 🐍 Java Learning Repository
 
 Welcome to my Java learning repository! 🎉 This repo contains all the Java scripts, notebooks, and projects I created while learning Java. It’s a collection of practice exercises, small projects, and experiments as I explored the language and its ecosystem.
@@ -24,7 +21,7 @@ Welcome to my Java learning repository! 🎉 This repo contains all the Java scr
    ```bash
    git clone https://github.com/srijansundaram/JAVA-PROGRAM.git
    cd JAVA-PROGRAM
-````
+   ````
 
 2. Make sure you have jdk installed. 
 
